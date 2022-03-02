@@ -1,0 +1,17 @@
+---
+title: "My_new_file"
+author: "Vladimir Dimitrov"
+date: "02 03 2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# HI guys 
+
+```{r}
+
+```
+
